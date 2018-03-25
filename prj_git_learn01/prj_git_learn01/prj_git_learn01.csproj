@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IMPL_sample.cs" />
+    <Compile Include="IMPL_sample2.cs" />
     <Compile Include="INTF_sample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

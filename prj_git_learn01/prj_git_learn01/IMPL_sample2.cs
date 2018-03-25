@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace prj_git_learn01
 {
-    interface INTF_sample
+    class IMPL_sample2 : INTF_sample2
     {
-    }
-
-    interface INTF_sample2
-    {
-        void Method_is2(String param);
-
+        public void Method_is2(string param)
+        {
+            // some inmplementation
+        }
     }
 }
