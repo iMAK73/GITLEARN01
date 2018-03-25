@@ -13,4 +13,11 @@ namespace prj_git_learn01
         void Method1();
         void Method2(Int32 param);
     }
+
+    interface INTF_sample2
+    {
+        void Method_is2(String param);
+        void Method2_is2();
+
+    }
 }
