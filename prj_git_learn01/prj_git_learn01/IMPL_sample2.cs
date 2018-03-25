@@ -11,6 +11,7 @@ namespace prj_git_learn01
         public void Method_is2(string param)
         {
             // some inmplementation
+            Console.WriteLine("impl 2-3");
         }
     }
 }
