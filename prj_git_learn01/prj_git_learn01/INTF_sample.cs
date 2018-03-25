@@ -8,6 +8,9 @@ namespace prj_git_learn01
 {
     interface INTF_sample
     {
-        Int32 Id { get; set; }
+        Int32 Id { get;}
+        String Name { get; set; }
+        void Method1();
+        void Method2();
     }
 }
