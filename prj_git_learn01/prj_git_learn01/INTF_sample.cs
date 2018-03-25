@@ -12,6 +12,7 @@ namespace prj_git_learn01
 
     interface INTF_sample2
     {
+        void Method_is2();
 
     }
 }
