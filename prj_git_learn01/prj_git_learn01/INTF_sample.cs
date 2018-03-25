@@ -9,4 +9,9 @@ namespace prj_git_learn01
     interface INTF_sample
     {
     }
+
+    interface INTF_sample2
+    {
+
+    }
 }
