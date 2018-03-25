@@ -8,5 +8,6 @@ namespace prj_git_learn01
 {
     interface INTF_sample
     {
+        Int32 Id { get; set; }
     }
 }
