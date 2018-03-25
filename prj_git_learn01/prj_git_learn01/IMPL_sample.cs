@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//ИТОГОВАЯ
+
 namespace prj_git_learn01
 {
     class IMPL_sample
