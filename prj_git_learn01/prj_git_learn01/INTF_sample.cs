@@ -11,6 +11,6 @@ namespace prj_git_learn01
         Int32 Id { get;}
         String Name { get; set; }
         void Method1();
-        void Method2();
+        void Method2(Int32 param);
     }
 }
